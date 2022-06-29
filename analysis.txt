@@ -1,0 +1,6 @@
+Can you reliably get good solutions?
+	The best solution we were able find was a Sudoku with a fitness score between 90-100.
+	
+How many generations does it take?
+	We weren't able to get a solution with a fitness score below 90 within 10 generations
+	with a population size of 10000.
